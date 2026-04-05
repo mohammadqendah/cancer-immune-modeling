@@ -1,4 +1,4 @@
-<img width="1440" height="542" alt="Screenshot 2026-04-05 084648" src="https://github.com/user-attachments/assets/316d82dc-03b6-4c9d-b96e-270235ffdcd5" /># 🦠 Mathematical Modeling of Tumor-Immune Dynamics: A Melanoma Case Study
+
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![SciPy](https://img.shields.io/badge/SciPy-RK45-orange.svg)
@@ -21,7 +21,7 @@ The `notebooks/Modeling Project.ipynb` notebook acts as an in-silico clinical tr
 4. Late-Stage Diagnosis (Immune Exhaustion)
 5. Immunotherapy Rescue (Boosting $k$)
 6. Immune Evasion ("Cold" Tumors)
-
+<img width="1440" height="542" alt="Screenshot 2026-04-05 084648" src="https://github.com/user-attachments/assets/316d82dc-03b6-4c9d-b96e-270235ffdcd5" /># 🦠 Mathematical Modeling of Tumor-Immune Dynamics: A Melanoma Case Study
 
 ## 🚀 How to Run Locally
 
