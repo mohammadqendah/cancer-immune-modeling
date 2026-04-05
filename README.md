@@ -1,4 +1,4 @@
-# 🦠 Mathematical Modeling of Tumor-Immune Dynamics: A Melanoma Case Study
+<img width="1440" height="542" alt="Screenshot 2026-04-05 084648" src="https://github.com/user-attachments/assets/316d82dc-03b6-4c9d-b96e-270235ffdcd5" /># 🦠 Mathematical Modeling of Tumor-Immune Dynamics: A Melanoma Case Study
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![SciPy](https://img.shields.io/badge/SciPy-RK45-orange.svg)
@@ -14,7 +14,7 @@ This repository contains an in-silico mathematical model of the dynamic competit
 * **Dimensional Analysis:** Parameters adapted from de Pillis et al. (2005) were mathematically scaled from fractional normalizations to absolute raw cell counts to provide clinically tangible simulations.
 
 ## 📊 Key Scenarios Simulated
-The `notebooks/tumor_immune_dynamics.ipynb` notebook acts as an in-silico clinical trial, testing 6 distinct hypotheses:
+The `notebooks/Modeling Project.ipynb` notebook acts as an in-silico clinical trial, testing 6 distinct hypotheses:
 1. Baseline Immunoclearance (Healthy Patient)
 2. Systemic Immunosuppression
 3. Indolent/Slow-Growing Tumors
@@ -22,7 +22,6 @@ The `notebooks/tumor_immune_dynamics.ipynb` notebook acts as an in-silico clinic
 5. Immunotherapy Rescue (Boosting $k$)
 6. Immune Evasion ("Cold" Tumors)
 
-*(Optional: Add a screenshot of your Pandas table or your best chart here using `![Simulation Results](images/baseline_clearance.png)`)*
 
 ## 🚀 How to Run Locally
 
