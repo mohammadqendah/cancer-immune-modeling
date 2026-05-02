@@ -27,10 +27,8 @@ The `notebooks/Modeling Project.ipynb` notebook and the `app.py` dashboard act a
 git clone [https://github.com/mohammadqendah/cancer-immune-modeling.git](https://github.com/mohammadqendah/cancer-immune-modeling.git)
 cd cancer-immune-modeling
 
-**2. Install required libraries:**
-```bash
+2. Install required libraries:
 pip install -r requirements.txt
 
-**3. Launch the Interactive Dashboard:**
-```bash
+3. Launch the Interactive Dashboard:
 streamlit run app.py
